@@ -21,7 +21,9 @@ Una vez teniendo los archivos del proyecto, se deberá ejecutar la consola de co
 
 Estando en la carpeta del proyecto se insertará el siguiente comando que permitirá descargar todos los modulos necesarios para el proyecto:
 
-> npm install
+```
+npm install
+```
 
 Se creará una carpeta llamada "node_modules" la cual contendrá todos los modulos necesarios para el proyecto.
 
@@ -31,4 +33,6 @@ Para iniciar el proyecto, se deberá ejecutar la consola de comandos (CMD) en la
 
 Estando en la carpeta del proyecto se insertará el siguiente comando que permitirá ejecutar el proyecto:
 
-> npm run dev
+```
+npm run dev
+```
