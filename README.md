@@ -31,6 +31,17 @@ npm install
 
 Se creará una carpeta llamada "node_modules" la cual contendrá todos los modulos necesarios para el proyecto.
 
+### Importante
+
+Se deberá modificar los datos necesarios que están relacionados con la conexión a la base de datos, estos se encuentran en la siguiente ruta:
+
+```
+scr/database.js
+```
+
+En este archivo habrán dos secciones que se deberá modificar el "user" y/o "password", dichas secciones están muy bien comentadas para verlas fácilmente.
+
+
 ## Ejecución
 
 Para iniciar el proyecto, se deberá ejecutar la consola de comandos (CMD) en la carpeta del proyecto.
