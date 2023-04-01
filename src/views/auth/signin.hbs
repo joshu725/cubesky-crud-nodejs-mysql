@@ -1,0 +1,27 @@
+<div class="container p-4">
+    <div class="row">
+        <div class="col-md-4 mx-auto">
+            <div class="card text-center">
+                <div class="card-header bg-dark text-dark">
+                    <h3 class="text-light m-0">Inicio de sesión</h3>
+                </div>
+                <div class="card-body">
+                    <img src="/img/login.png" alt="Inicio de sesión" class="card-img-top mx-auto m-2 rounded-circle w-50">
+                    <form action="/signin" method="POST">
+                        <div class="form-group">
+                            <input type="text" name="usuario" placeholder="Nombre de usuario" class="form-control" required autofocus>
+                        </div>
+                        <div class="form-group">
+                            <input type="password" name="pass" placeholder="Contraseña" class="form-control" required>
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-success btn-block">
+                                Iniciar sesión
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

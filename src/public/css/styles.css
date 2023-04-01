@@ -1,0 +1,27 @@
+.form-control {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+html,
+body {
+  height: 100%;
+  background-image: linear-gradient(to top, #6a85b6 0%, #bac8e0 100%);
+}
+
+/* Para que el contenido del main ocupe todo el espacio disponible */
+main {
+  flex: 1;
+}
+
+.imagen-fondo {
+  padding-top: 10.5rem;
+  padding-bottom: 6rem;
+  text-align: center;
+  color: #fff;
+  background-image: url("/img/cube-rubik.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
