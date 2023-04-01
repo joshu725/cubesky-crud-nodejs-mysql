@@ -1,8 +1,10 @@
 # Descripción e instrucciones del proyecto 2
 
-Materia: Programación para internet
-Sección: D13
-Alumno: Joshua A.R.
+## Datos
+
+- Materia: Programación para internet
+- Sección: D13
+- Alumno: Joshua A.R.
 
 Para realizar este proyecto utilicé las siguientes tecnologías:
 - HTML5
