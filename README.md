@@ -54,14 +54,6 @@ npm run dev
 
 ## Capturas de pantalla
 
-![crud](https://i.imgur.com/Sveqran.png)
-![crud-añadir](https://i.imgur.com/v7PsSyh.png)
-![crud-editar](https://i.imgur.com/7Dv4B4m.png)
-![perfil](https://i.imgur.com/LGaE5wP.png)
-![registro](https://i.imgur.com/KOYopP6.png)
-![iniciosesion](https://i.imgur.com/R4F16wS.png)
-
-
 
 
 
